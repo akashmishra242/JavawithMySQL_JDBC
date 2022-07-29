@@ -1,6 +1,7 @@
 # MySQL Query using JAVA.
 
 This is the code for using Any MySQL query using java instead of command prompt or MySQL WorkBench.
+This is achieved through Java™ database connectivity (JDBC).
 ### **All the operations are performed on the database created named as "blood_donation_management_db".**
 
 
